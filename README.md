@@ -21,7 +21,9 @@ android.app.ActivityManager.getRunningAppProcesses( )  获取运行APP
 
 android.app.ActivityManager.getRunningTasks( )  获取正运行的task
 
-android.content.pm.PackageManager.getInstalledPackages( )  获取安装APP
+android.content.pm.PackageManager.getInstalledPackages( ) 获取安装APP
+
+
 --------------------- 
 
 原文：https://blog.csdn.net/u013107656/article/details/53434317 
