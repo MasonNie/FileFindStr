@@ -1,5 +1,6 @@
 # FileFindStr
 配合一下对应关系食用：
+
 android.telephony.TelephonyManager.getNetworkOperator( )   获取运营商信息
 
 android.telephony.TelephonyManager.getDeviceId( )   获取设备信息
